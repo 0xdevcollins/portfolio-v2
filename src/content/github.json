@@ -1,0 +1,2158 @@
+{
+  "syncedAt": "2026-10-02T11:37:50.674Z",
+  "user": "0xdevcollins",
+  "lastYear": {
+    "total": 5734,
+    "weeks": [
+      [
+        [
+          "2025-09-28",
+          9
+        ],
+        [
+          "2025-09-29",
+          14
+        ],
+        [
+          "2025-09-30",
+          4
+        ],
+        [
+          "2025-10-01",
+          31
+        ],
+        [
+          "2025-10-02",
+          15
+        ],
+        [
+          "2025-10-03",
+          3
+        ],
+        [
+          "2025-10-04",
+          4
+        ]
+      ],
+      [
+        [
+          "2025-10-05",
+          0
+        ],
+        [
+          "2025-10-06",
+          11
+        ],
+        [
+          "2025-10-07",
+          14
+        ],
+        [
+          "2025-10-08",
+          0
+        ],
+        [
+          "2025-10-09",
+          17
+        ],
+        [
+          "2025-10-10",
+          12
+        ],
+        [
+          "2025-10-11",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-10-12",
+          19
+        ],
+        [
+          "2025-10-13",
+          10
+        ],
+        [
+          "2025-10-14",
+          2
+        ],
+        [
+          "2025-10-15",
+          6
+        ],
+        [
+          "2025-10-16",
+          2
+        ],
+        [
+          "2025-10-17",
+          1
+        ],
+        [
+          "2025-10-18",
+          11
+        ]
+      ],
+      [
+        [
+          "2025-10-19",
+          12
+        ],
+        [
+          "2025-10-20",
+          8
+        ],
+        [
+          "2025-10-21",
+          2
+        ],
+        [
+          "2025-10-22",
+          1
+        ],
+        [
+          "2025-10-23",
+          0
+        ],
+        [
+          "2025-10-24",
+          5
+        ],
+        [
+          "2025-10-25",
+          1
+        ]
+      ],
+      [
+        [
+          "2025-10-26",
+          4
+        ],
+        [
+          "2025-10-27",
+          4
+        ],
+        [
+          "2025-10-28",
+          2
+        ],
+        [
+          "2025-10-29",
+          6
+        ],
+        [
+          "2025-10-30",
+          13
+        ],
+        [
+          "2025-10-31",
+          0
+        ],
+        [
+          "2025-11-01",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-11-02",
+          0
+        ],
+        [
+          "2025-11-03",
+          0
+        ],
+        [
+          "2025-11-04",
+          2
+        ],
+        [
+          "2025-11-05",
+          1
+        ],
+        [
+          "2025-11-06",
+          2
+        ],
+        [
+          "2025-11-07",
+          1
+        ],
+        [
+          "2025-11-08",
+          2
+        ]
+      ],
+      [
+        [
+          "2025-11-09",
+          11
+        ],
+        [
+          "2025-11-10",
+          1
+        ],
+        [
+          "2025-11-11",
+          20
+        ],
+        [
+          "2025-11-12",
+          4
+        ],
+        [
+          "2025-11-13",
+          3
+        ],
+        [
+          "2025-11-14",
+          4
+        ],
+        [
+          "2025-11-15",
+          17
+        ]
+      ],
+      [
+        [
+          "2025-11-16",
+          33
+        ],
+        [
+          "2025-11-17",
+          17
+        ],
+        [
+          "2025-11-18",
+          8
+        ],
+        [
+          "2025-11-19",
+          8
+        ],
+        [
+          "2025-11-20",
+          3
+        ],
+        [
+          "2025-11-21",
+          7
+        ],
+        [
+          "2025-11-22",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-11-23",
+          2
+        ],
+        [
+          "2025-11-24",
+          8
+        ],
+        [
+          "2025-11-25",
+          0
+        ],
+        [
+          "2025-11-26",
+          12
+        ],
+        [
+          "2025-11-27",
+          21
+        ],
+        [
+          "2025-11-28",
+          19
+        ],
+        [
+          "2025-11-29",
+          8
+        ]
+      ],
+      [
+        [
+          "2025-11-30",
+          3
+        ],
+        [
+          "2025-12-01",
+          0
+        ],
+        [
+          "2025-12-02",
+          8
+        ],
+        [
+          "2025-12-03",
+          2
+        ],
+        [
+          "2025-12-04",
+          20
+        ],
+        [
+          "2025-12-05",
+          7
+        ],
+        [
+          "2025-12-06",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-12-07",
+          3
+        ],
+        [
+          "2025-12-08",
+          5
+        ],
+        [
+          "2025-12-09",
+          11
+        ],
+        [
+          "2025-12-10",
+          0
+        ],
+        [
+          "2025-12-11",
+          1
+        ],
+        [
+          "2025-12-12",
+          44
+        ],
+        [
+          "2025-12-13",
+          42
+        ]
+      ],
+      [
+        [
+          "2025-12-14",
+          0
+        ],
+        [
+          "2025-12-15",
+          0
+        ],
+        [
+          "2025-12-16",
+          0
+        ],
+        [
+          "2025-12-17",
+          0
+        ],
+        [
+          "2025-12-18",
+          0
+        ],
+        [
+          "2025-12-19",
+          0
+        ],
+        [
+          "2025-12-20",
+          1
+        ]
+      ],
+      [
+        [
+          "2025-12-21",
+          0
+        ],
+        [
+          "2025-12-22",
+          0
+        ],
+        [
+          "2025-12-23",
+          1
+        ],
+        [
+          "2025-12-24",
+          8
+        ],
+        [
+          "2025-12-25",
+          4
+        ],
+        [
+          "2025-12-26",
+          8
+        ],
+        [
+          "2025-12-27",
+          7
+        ]
+      ],
+      [
+        [
+          "2025-12-28",
+          0
+        ],
+        [
+          "2025-12-29",
+          1
+        ],
+        [
+          "2025-12-30",
+          2
+        ],
+        [
+          "2025-12-31",
+          4
+        ],
+        [
+          "2026-01-01",
+          20
+        ],
+        [
+          "2026-01-02",
+          4
+        ],
+        [
+          "2026-01-03",
+          4
+        ]
+      ],
+      [
+        [
+          "2026-01-04",
+          0
+        ],
+        [
+          "2026-01-05",
+          8
+        ],
+        [
+          "2026-01-06",
+          1
+        ],
+        [
+          "2026-01-07",
+          2
+        ],
+        [
+          "2026-01-08",
+          0
+        ],
+        [
+          "2026-01-09",
+          0
+        ],
+        [
+          "2026-01-10",
+          2
+        ]
+      ],
+      [
+        [
+          "2026-01-11",
+          2
+        ],
+        [
+          "2026-01-12",
+          4
+        ],
+        [
+          "2026-01-13",
+          17
+        ],
+        [
+          "2026-01-14",
+          14
+        ],
+        [
+          "2026-01-15",
+          2
+        ],
+        [
+          "2026-01-16",
+          0
+        ],
+        [
+          "2026-01-17",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-01-18",
+          8
+        ],
+        [
+          "2026-01-19",
+          0
+        ],
+        [
+          "2026-01-20",
+          0
+        ],
+        [
+          "2026-01-21",
+          3
+        ],
+        [
+          "2026-01-22",
+          12
+        ],
+        [
+          "2026-01-23",
+          12
+        ],
+        [
+          "2026-01-24",
+          11
+        ]
+      ],
+      [
+        [
+          "2026-01-25",
+          45
+        ],
+        [
+          "2026-01-26",
+          8
+        ],
+        [
+          "2026-01-27",
+          1
+        ],
+        [
+          "2026-01-28",
+          15
+        ],
+        [
+          "2026-01-29",
+          11
+        ],
+        [
+          "2026-01-30",
+          23
+        ],
+        [
+          "2026-01-31",
+          4
+        ]
+      ],
+      [
+        [
+          "2026-02-01",
+          12
+        ],
+        [
+          "2026-02-02",
+          0
+        ],
+        [
+          "2026-02-03",
+          11
+        ],
+        [
+          "2026-02-04",
+          5
+        ],
+        [
+          "2026-02-05",
+          0
+        ],
+        [
+          "2026-02-06",
+          11
+        ],
+        [
+          "2026-02-07",
+          4
+        ]
+      ],
+      [
+        [
+          "2026-02-08",
+          0
+        ],
+        [
+          "2026-02-09",
+          3
+        ],
+        [
+          "2026-02-10",
+          11
+        ],
+        [
+          "2026-02-11",
+          23
+        ],
+        [
+          "2026-02-12",
+          9
+        ],
+        [
+          "2026-02-13",
+          4
+        ],
+        [
+          "2026-02-14",
+          2
+        ]
+      ],
+      [
+        [
+          "2026-02-15",
+          1
+        ],
+        [
+          "2026-02-16",
+          9
+        ],
+        [
+          "2026-02-17",
+          3
+        ],
+        [
+          "2026-02-18",
+          6
+        ],
+        [
+          "2026-02-19",
+          3
+        ],
+        [
+          "2026-02-20",
+          12
+        ],
+        [
+          "2026-02-21",
+          16
+        ]
+      ],
+      [
+        [
+          "2026-02-22",
+          23
+        ],
+        [
+          "2026-02-23",
+          23
+        ],
+        [
+          "2026-02-24",
+          6
+        ],
+        [
+          "2026-02-25",
+          15
+        ],
+        [
+          "2026-02-26",
+          16
+        ],
+        [
+          "2026-02-27",
+          8
+        ],
+        [
+          "2026-02-28",
+          23
+        ]
+      ],
+      [
+        [
+          "2026-03-01",
+          4
+        ],
+        [
+          "2026-03-02",
+          3
+        ],
+        [
+          "2026-03-03",
+          17
+        ],
+        [
+          "2026-03-04",
+          21
+        ],
+        [
+          "2026-03-05",
+          9
+        ],
+        [
+          "2026-03-06",
+          18
+        ],
+        [
+          "2026-03-07",
+          13
+        ]
+      ],
+      [
+        [
+          "2026-03-08",
+          17
+        ],
+        [
+          "2026-03-09",
+          27
+        ],
+        [
+          "2026-03-10",
+          0
+        ],
+        [
+          "2026-03-11",
+          18
+        ],
+        [
+          "2026-03-12",
+          8
+        ],
+        [
+          "2026-03-13",
+          6
+        ],
+        [
+          "2026-03-14",
+          5
+        ]
+      ],
+      [
+        [
+          "2026-03-15",
+          0
+        ],
+        [
+          "2026-03-16",
+          11
+        ],
+        [
+          "2026-03-17",
+          13
+        ],
+        [
+          "2026-03-18",
+          5
+        ],
+        [
+          "2026-03-19",
+          3
+        ],
+        [
+          "2026-03-20",
+          24
+        ],
+        [
+          "2026-03-21",
+          23
+        ]
+      ],
+      [
+        [
+          "2026-03-22",
+          38
+        ],
+        [
+          "2026-03-23",
+          22
+        ],
+        [
+          "2026-03-24",
+          29
+        ],
+        [
+          "2026-03-25",
+          39
+        ],
+        [
+          "2026-03-26",
+          37
+        ],
+        [
+          "2026-03-27",
+          6
+        ],
+        [
+          "2026-03-28",
+          8
+        ]
+      ],
+      [
+        [
+          "2026-03-29",
+          20
+        ],
+        [
+          "2026-03-30",
+          34
+        ],
+        [
+          "2026-03-31",
+          11
+        ],
+        [
+          "2026-04-01",
+          4
+        ],
+        [
+          "2026-04-02",
+          3
+        ],
+        [
+          "2026-04-03",
+          5
+        ],
+        [
+          "2026-04-04",
+          131
+        ]
+      ],
+      [
+        [
+          "2026-04-05",
+          12
+        ],
+        [
+          "2026-04-06",
+          0
+        ],
+        [
+          "2026-04-07",
+          0
+        ],
+        [
+          "2026-04-08",
+          11
+        ],
+        [
+          "2026-04-09",
+          5
+        ],
+        [
+          "2026-04-10",
+          0
+        ],
+        [
+          "2026-04-11",
+          4
+        ]
+      ],
+      [
+        [
+          "2026-04-12",
+          0
+        ],
+        [
+          "2026-04-13",
+          0
+        ],
+        [
+          "2026-04-14",
+          1
+        ],
+        [
+          "2026-04-15",
+          4
+        ],
+        [
+          "2026-04-16",
+          4
+        ],
+        [
+          "2026-04-17",
+          2
+        ],
+        [
+          "2026-04-18",
+          7
+        ]
+      ],
+      [
+        [
+          "2026-04-19",
+          0
+        ],
+        [
+          "2026-04-20",
+          2
+        ],
+        [
+          "2026-04-21",
+          6
+        ],
+        [
+          "2026-04-22",
+          1
+        ],
+        [
+          "2026-04-23",
+          1
+        ],
+        [
+          "2026-04-24",
+          0
+        ],
+        [
+          "2026-04-25",
+          4
+        ]
+      ],
+      [
+        [
+          "2026-04-26",
+          0
+        ],
+        [
+          "2026-04-27",
+          0
+        ],
+        [
+          "2026-04-28",
+          2
+        ],
+        [
+          "2026-04-29",
+          8
+        ],
+        [
+          "2026-04-30",
+          3
+        ],
+        [
+          "2026-05-01",
+          2
+        ],
+        [
+          "2026-05-02",
+          1
+        ]
+      ],
+      [
+        [
+          "2026-05-03",
+          6
+        ],
+        [
+          "2026-05-04",
+          5
+        ],
+        [
+          "2026-05-05",
+          0
+        ],
+        [
+          "2026-05-06",
+          0
+        ],
+        [
+          "2026-05-07",
+          2
+        ],
+        [
+          "2026-05-08",
+          13
+        ],
+        [
+          "2026-05-09",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-05-10",
+          14
+        ],
+        [
+          "2026-05-11",
+          19
+        ],
+        [
+          "2026-05-12",
+          0
+        ],
+        [
+          "2026-05-13",
+          8
+        ],
+        [
+          "2026-05-14",
+          36
+        ],
+        [
+          "2026-05-15",
+          18
+        ],
+        [
+          "2026-05-16",
+          25
+        ]
+      ],
+      [
+        [
+          "2026-05-17",
+          0
+        ],
+        [
+          "2026-05-18",
+          33
+        ],
+        [
+          "2026-05-19",
+          20
+        ],
+        [
+          "2026-05-20",
+          19
+        ],
+        [
+          "2026-05-21",
+          70
+        ],
+        [
+          "2026-05-22",
+          41
+        ],
+        [
+          "2026-05-23",
+          11
+        ]
+      ],
+      [
+        [
+          "2026-05-24",
+          4
+        ],
+        [
+          "2026-05-25",
+          26
+        ],
+        [
+          "2026-05-26",
+          11
+        ],
+        [
+          "2026-05-27",
+          7
+        ],
+        [
+          "2026-05-28",
+          25
+        ],
+        [
+          "2026-05-29",
+          95
+        ],
+        [
+          "2026-05-30",
+          107
+        ]
+      ],
+      [
+        [
+          "2026-05-31",
+          38
+        ],
+        [
+          "2026-06-01",
+          2
+        ],
+        [
+          "2026-06-02",
+          6
+        ],
+        [
+          "2026-06-03",
+          11
+        ],
+        [
+          "2026-06-04",
+          1
+        ],
+        [
+          "2026-06-05",
+          22
+        ],
+        [
+          "2026-06-06",
+          2
+        ]
+      ],
+      [
+        [
+          "2026-06-07",
+          0
+        ],
+        [
+          "2026-06-08",
+          2
+        ],
+        [
+          "2026-06-09",
+          10
+        ],
+        [
+          "2026-06-10",
+          0
+        ],
+        [
+          "2026-06-11",
+          11
+        ],
+        [
+          "2026-06-12",
+          19
+        ],
+        [
+          "2026-06-13",
+          6
+        ]
+      ],
+      [
+        [
+          "2026-06-14",
+          0
+        ],
+        [
+          "2026-06-15",
+          29
+        ],
+        [
+          "2026-06-16",
+          31
+        ],
+        [
+          "2026-06-17",
+          1
+        ],
+        [
+          "2026-06-18",
+          7
+        ],
+        [
+          "2026-06-19",
+          0
+        ],
+        [
+          "2026-06-20",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-06-21",
+          10
+        ],
+        [
+          "2026-06-22",
+          6
+        ],
+        [
+          "2026-06-23",
+          0
+        ],
+        [
+          "2026-06-24",
+          62
+        ],
+        [
+          "2026-06-25",
+          50
+        ],
+        [
+          "2026-06-26",
+          1
+        ],
+        [
+          "2026-06-27",
+          25
+        ]
+      ],
+      [
+        [
+          "2026-06-28",
+          4
+        ],
+        [
+          "2026-06-29",
+          5
+        ],
+        [
+          "2026-06-30",
+          8
+        ],
+        [
+          "2026-07-01",
+          0
+        ],
+        [
+          "2026-07-02",
+          26
+        ],
+        [
+          "2026-07-03",
+          16
+        ],
+        [
+          "2026-07-04",
+          1
+        ]
+      ],
+      [
+        [
+          "2026-07-05",
+          105
+        ],
+        [
+          "2026-07-06",
+          77
+        ],
+        [
+          "2026-07-07",
+          65
+        ],
+        [
+          "2026-07-08",
+          112
+        ],
+        [
+          "2026-07-09",
+          17
+        ],
+        [
+          "2026-07-10",
+          9
+        ],
+        [
+          "2026-07-11",
+          52
+        ]
+      ],
+      [
+        [
+          "2026-07-12",
+          17
+        ],
+        [
+          "2026-07-13",
+          1
+        ],
+        [
+          "2026-07-14",
+          0
+        ],
+        [
+          "2026-07-15",
+          68
+        ],
+        [
+          "2026-07-16",
+          38
+        ],
+        [
+          "2026-07-17",
+          73
+        ],
+        [
+          "2026-07-18",
+          57
+        ]
+      ],
+      [
+        [
+          "2026-07-19",
+          5
+        ],
+        [
+          "2026-07-20",
+          22
+        ],
+        [
+          "2026-07-21",
+          2
+        ],
+        [
+          "2026-07-22",
+          17
+        ],
+        [
+          "2026-07-23",
+          48
+        ],
+        [
+          "2026-07-24",
+          17
+        ],
+        [
+          "2026-07-25",
+          6
+        ]
+      ],
+      [
+        [
+          "2026-07-26",
+          0
+        ],
+        [
+          "2026-07-27",
+          20
+        ],
+        [
+          "2026-07-28",
+          37
+        ],
+        [
+          "2026-07-29",
+          29
+        ],
+        [
+          "2026-07-30",
+          22
+        ],
+        [
+          "2026-07-31",
+          12
+        ],
+        [
+          "2026-08-01",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-08-02",
+          0
+        ],
+        [
+          "2026-08-03",
+          4
+        ],
+        [
+          "2026-08-04",
+          40
+        ],
+        [
+          "2026-08-05",
+          24
+        ],
+        [
+          "2026-08-06",
+          75
+        ],
+        [
+          "2026-08-07",
+          42
+        ],
+        [
+          "2026-08-08",
+          37
+        ]
+      ],
+      [
+        [
+          "2026-08-09",
+          73
+        ],
+        [
+          "2026-08-10",
+          62
+        ],
+        [
+          "2026-08-11",
+          7
+        ],
+        [
+          "2026-08-12",
+          13
+        ],
+        [
+          "2026-08-13",
+          40
+        ],
+        [
+          "2026-08-14",
+          14
+        ],
+        [
+          "2026-08-15",
+          4
+        ]
+      ],
+      [
+        [
+          "2026-08-16",
+          43
+        ],
+        [
+          "2026-08-17",
+          87
+        ],
+        [
+          "2026-08-18",
+          60
+        ],
+        [
+          "2026-08-19",
+          88
+        ],
+        [
+          "2026-08-20",
+          74
+        ],
+        [
+          "2026-08-21",
+          26
+        ],
+        [
+          "2026-08-22",
+          9
+        ]
+      ],
+      [
+        [
+          "2026-08-23",
+          24
+        ],
+        [
+          "2026-08-24",
+          35
+        ],
+        [
+          "2026-08-25",
+          32
+        ],
+        [
+          "2026-08-26",
+          37
+        ],
+        [
+          "2026-08-27",
+          55
+        ],
+        [
+          "2026-08-28",
+          58
+        ],
+        [
+          "2026-08-29",
+          20
+        ]
+      ],
+      [
+        [
+          "2026-08-30",
+          93
+        ],
+        [
+          "2026-08-31",
+          52
+        ],
+        [
+          "2026-09-01",
+          24
+        ],
+        [
+          "2026-09-02",
+          13
+        ],
+        [
+          "2026-09-03",
+          18
+        ],
+        [
+          "2026-09-04",
+          11
+        ],
+        [
+          "2026-09-05",
+          11
+        ]
+      ],
+      [
+        [
+          "2026-09-06",
+          15
+        ],
+        [
+          "2026-09-07",
+          22
+        ],
+        [
+          "2026-09-08",
+          21
+        ],
+        [
+          "2026-09-09",
+          73
+        ],
+        [
+          "2026-09-10",
+          72
+        ],
+        [
+          "2026-09-11",
+          3
+        ],
+        [
+          "2026-09-12",
+          30
+        ]
+      ],
+      [
+        [
+          "2026-09-13",
+          30
+        ],
+        [
+          "2026-09-14",
+          7
+        ],
+        [
+          "2026-09-15",
+          26
+        ],
+        [
+          "2026-09-16",
+          21
+        ],
+        [
+          "2026-09-17",
+          45
+        ],
+        [
+          "2026-09-18",
+          19
+        ],
+        [
+          "2026-09-19",
+          7
+        ]
+      ],
+      [
+        [
+          "2026-09-20",
+          0
+        ],
+        [
+          "2026-09-21",
+          5
+        ],
+        [
+          "2026-09-22",
+          25
+        ],
+        [
+          "2026-09-23",
+          32
+        ],
+        [
+          "2026-09-24",
+          55
+        ],
+        [
+          "2026-09-25",
+          0
+        ],
+        [
+          "2026-09-26",
+          58
+        ]
+      ],
+      [
+        [
+          "2026-09-27",
+          0
+        ],
+        [
+          "2026-09-28",
+          1
+        ],
+        [
+          "2026-09-29",
+          24
+        ],
+        [
+          "2026-09-30",
+          23
+        ],
+        [
+          "2026-10-01",
+          17
+        ],
+        [
+          "2026-10-02",
+          0
+        ]
+      ]
+    ]
+  },
+  "yearly": [
+    {
+      "year": 2022,
+      "total": 214
+    },
+    {
+      "year": 2023,
+      "total": 729
+    },
+    {
+      "year": 2024,
+      "total": 1257
+    },
+    {
+      "year": 2025,
+      "total": 1871
+    },
+    {
+      "year": 2026,
+      "total": 5095
+    }
+  ],
+  "mergedPRs": 1304,
+  "reposContributedTo": 48,
+  "openSource": {
+    "mergedPRs": 61,
+    "repos": 38,
+    "orgs": 32,
+    "list": [
+      {
+        "repo": "bsv-blockchain-demos/bsv-faucet",
+        "owner": "bsv-blockchain-demos",
+        "avatar": "https://avatars.githubusercontent.com/u/219157321?v=4",
+        "description": "BSV testnet faucet with wallet funding, withdrawal limits, transaction history and an administration dashboard.",
+        "language": "TypeScript",
+        "stars": 5,
+        "count": 17,
+        "latest": {
+          "title": "Feat/link clerk db activity",
+          "url": "https://github.com/bsv-blockchain-demos/bsv-faucet/pull/60",
+          "mergedAt": "2024-11-19T17:16:31Z"
+        }
+      },
+      {
+        "repo": "bitcoin-sv/bsv-ai-agent",
+        "owner": "bitcoin-sv",
+        "avatar": "https://avatars.githubusercontent.com/u/42189007?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 5,
+        "count": 5,
+        "latest": {
+          "title": "Feat/add wallet creation and redirection on successful sign-up",
+          "url": "https://github.com/bitcoin-sv/bsv-ai-agent/pull/19",
+          "mergedAt": "2024-12-31T05:55:27Z"
+        }
+      },
+      {
+        "repo": "cairo-book/cairo-book",
+        "owner": "cairo-book",
+        "avatar": "https://avatars.githubusercontent.com/u/129290997?v=4",
+        "description": "The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.",
+        "language": "Cairo",
+        "stars": 276,
+        "count": 2,
+        "latest": {
+          "title": "Ci/dependency caching",
+          "url": "https://github.com/cairo-book/cairo-book/pull/1044",
+          "mergedAt": "2024-12-12T10:15:39Z"
+        }
+      },
+      {
+        "repo": "akkuea/akkuea",
+        "owner": "akkuea",
+        "avatar": "https://avatars.githubusercontent.com/u/190044620?v=4",
+        "description": "Real Estate (RWA) + DeFi = The future",
+        "language": "TypeScript",
+        "stars": 48,
+        "count": 2,
+        "latest": {
+          "title": "feat(api): Implement Property CRUD operations with pagination and fil…",
+          "url": "https://github.com/akkuea/akkuea/pull/671",
+          "mergedAt": "2026-01-31T00:22:20Z"
+        }
+      },
+      {
+        "repo": "safetrustcr/frontend-SafeTrust",
+        "owner": "safetrustcr",
+        "avatar": "https://avatars.githubusercontent.com/u/185033045?v=4",
+        "description": "SafeTrust is a decentralized P2P escrow platform built on Stellar securing deposits for hotels, vacation rentals, and tourism bookings without intermediaries.",
+        "language": "TypeScript",
+        "stars": 28,
+        "count": 2,
+        "latest": {
+          "title": "Add room booking functionality with availability checker and price ca…",
+          "url": "https://github.com/safetrustcr/frontend-SafeTrust/pull/222",
+          "mergedAt": "2025-10-01T18:10:09Z"
+        }
+      },
+      {
+        "repo": "firstcontributions/first-contributions",
+        "owner": "firstcontributions",
+        "avatar": "https://avatars.githubusercontent.com/u/37713493?v=4",
+        "description": "🚀✨ Help beginners to contribute to open source projects",
+        "language": "",
+        "stars": 56179,
+        "count": 1,
+        "latest": {
+          "title": "Added Collins Ikechukwu to Contributors.md",
+          "url": "https://github.com/firstcontributions/first-contributions/pull/69866",
+          "mergedAt": "2023-07-12T14:43:58Z"
+        }
+      },
+      {
+        "repo": "keep-starknet-strange/joyboy",
+        "owner": "keep-starknet-strange",
+        "avatar": "https://avatars.githubusercontent.com/u/118723009?v=4",
+        "description": "Decentralized social built with Nostr and powered by Starknet account abstraction.",
+        "language": "TypeScript",
+        "stars": 87,
+        "count": 1,
+        "latest": {
+          "title": "Create Nostr_Clients_Recommendations.md",
+          "url": "https://github.com/keep-starknet-strange/joyboy/pull/143",
+          "mergedAt": "2024-06-04T10:56:58Z"
+        }
+      },
+      {
+        "repo": "lfglabs-dev/starknet.quest",
+        "owner": "lfglabs-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/108661731?v=4",
+        "description": "The on-chain quest tool of Starknet",
+        "language": "TypeScript",
+        "stars": 39,
+        "count": 1,
+        "latest": {
+          "title": "refactor: Remove user percentile ranking from ProfileCard component",
+          "url": "https://github.com/lfglabs-dev/starknet.quest/pull/860",
+          "mergedAt": "2024-10-08T08:52:19Z"
+        }
+      },
+      {
+        "repo": "Trustless-Work/trustlesswork-smart-contract-stellar",
+        "owner": "Trustless-Work",
+        "avatar": "https://avatars.githubusercontent.com/u/179369160?v=4",
+        "description": "Trustless Work provides permissionles escrow infrastructure. By using Trustless Work, any platform can integrate escrows in their user flow, it leverages Stellar Soroban Smart Contracts and USDC, a digital version of the dollar. ",
+        "language": "Rust",
+        "stars": 25,
+        "count": 1,
+        "latest": {
+          "title": "test: batch operation atomicity for Multi-Release V2 (#87)",
+          "url": "https://github.com/Trustless-Work/trustlesswork-smart-contract-stellar/pull/97",
+          "mergedAt": "2026-06-29T02:27:34Z"
+        }
+      },
+      {
+        "repo": "Kaizenode/SafeSwap",
+        "owner": "Kaizenode",
+        "avatar": "https://avatars.githubusercontent.com/u/180372446?v=4",
+        "description": "A safe marketplace for buyers and sellers",
+        "language": "TypeScript",
+        "stars": 25,
+        "count": 1,
+        "latest": {
+          "title": "feat/add safe swap logo",
+          "url": "https://github.com/Kaizenode/SafeSwap/pull/39",
+          "mergedAt": "2024-12-02T17:14:59Z"
+        }
+      },
+      {
+        "repo": "sivicstudios/starkludo",
+        "owner": "sivicstudios",
+        "avatar": "https://avatars.githubusercontent.com/u/177008470?v=4",
+        "description": "Ludo game on Starknet",
+        "language": "Cairo",
+        "stars": 25,
+        "count": 1,
+        "latest": {
+          "title": "fix: prevent dice roll after player reaches home",
+          "url": "https://github.com/sivicstudios/starkludo/pull/103",
+          "mergedAt": "2024-10-09T06:26:49Z"
+        }
+      },
+      {
+        "repo": "kindfi-org/kindfi",
+        "owner": "kindfi-org",
+        "avatar": "https://avatars.githubusercontent.com/u/190475072?v=4",
+        "description": "KindFi is an open-source Web3 crowdfunding platform built on Stellar. Featuring milestone-based escrows, gamified engagement, and LLM tools. GUIDE: https://kindfis-organization.gitbook.io/development",
+        "language": "TypeScript",
+        "stars": 23,
+        "count": 1,
+        "latest": {
+          "title": "wip: feat(api): add milestone review payload and validation",
+          "url": "https://github.com/kindfi-org/kindfi/pull/239",
+          "mergedAt": "2025-03-20T17:14:44Z"
+        }
+      },
+      {
+        "repo": "Shonen-Labs/StarkFinder",
+        "owner": "Shonen-Labs",
+        "avatar": "https://avatars.githubusercontent.com/u/194763030?v=4",
+        "description": "Onchain AI agent on Starknet for all sorts of people in the ecosystem",
+        "language": "TypeScript",
+        "stars": 23,
+        "count": 1,
+        "latest": {
+          "title": "feat(api): add transaction chat and message storage with Prisma",
+          "url": "https://github.com/Shonen-Labs/StarkFinder/pull/61",
+          "mergedAt": "2025-01-25T06:02:28Z"
+        }
+      },
+      {
+        "repo": "trovesfi/troves-client",
+        "owner": "trovesfi",
+        "avatar": "https://avatars.githubusercontent.com/u/165751591?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 22,
+        "count": 1,
+        "latest": {
+          "title": "feat(tokens): add support for sSTRK token and pools",
+          "url": "https://github.com/trovesfi/troves-client/pull/197",
+          "mergedAt": "2025-03-04T09:52:43Z"
+        }
+      },
+      {
+        "repo": "djeck1432/spotnet",
+        "owner": "djeck1432",
+        "avatar": "https://avatars.githubusercontent.com/u/19536159?v=4",
+        "description": "Spot Leveraging in the Starknet Ecosystem",
+        "language": "TypeScript",
+        "stars": 20,
+        "count": 1,
+        "latest": {
+          "title": "test: add unit tests for DashboardMixin methods",
+          "url": "https://github.com/djeck1432/spotnet/pull/117",
+          "mergedAt": "2024-10-28T12:11:54Z"
+        }
+      },
+      {
+        "repo": "Trustless-Work/trustlesswork-backoffice",
+        "owner": "Trustless-Work",
+        "avatar": "https://avatars.githubusercontent.com/u/179369160?v=4",
+        "description": "Backoffice for smart escrows",
+        "language": "TypeScript",
+        "stars": 18,
+        "count": 1,
+        "latest": {
+          "title": "refactor(escrow): modularize escrow creation components and add stepp…",
+          "url": "https://github.com/Trustless-Work/trustlesswork-backoffice/pull/76",
+          "mergedAt": "2024-12-24T04:04:10Z"
+        }
+      },
+      {
+        "repo": "dipdup-io/stone-packaging",
+        "owner": "dipdup-io",
+        "avatar": "https://avatars.githubusercontent.com/u/81768067?v=4",
+        "description": "Various forms of distribution for the Starkware Stone prover and verifier",
+        "language": "Shell",
+        "stars": 17,
+        "count": 1,
+        "latest": {
+          "title": "Native packages for Alpine",
+          "url": "https://github.com/dipdup-io/stone-packaging/pull/56",
+          "mergedAt": "2024-10-08T14:50:35Z"
+        }
+      },
+      {
+        "repo": "safetrustcr/backend-SafeTrust",
+        "owner": "safetrustcr",
+        "avatar": "https://avatars.githubusercontent.com/u/185033045?v=4",
+        "description": "SafeTrust is a decentralized P2P escrow platform built on Stellar securing deposits for hotels, vacation rentals, and tourism bookings without intermediaries.",
+        "language": "TypeScript",
+        "stars": 14,
+        "count": 1,
+        "latest": {
+          "title": "escrow_transaction_users",
+          "url": "https://github.com/safetrustcr/backend-SafeTrust/pull/148",
+          "mergedAt": "2025-05-09T19:47:14Z"
+        }
+      },
+      {
+        "repo": "bitcoin-sv/spv-wallet-browser",
+        "owner": "bitcoin-sv",
+        "avatar": "https://avatars.githubusercontent.com/u/42189007?v=4",
+        "description": "A non-custodial and open-source browser wallet for BSV, forked from Yours Wallet.",
+        "language": "TypeScript",
+        "stars": 8,
+        "count": 1,
+        "latest": {
+          "title": "Get Testnet coins from a faucet from within the wallet",
+          "url": "https://github.com/bitcoin-sv/spv-wallet-browser/pull/15",
+          "mergedAt": "2024-10-29T15:56:47Z"
+        }
+      },
+      {
+        "repo": "Stellopay/stellopay-core",
+        "owner": "Stellopay",
+        "avatar": "https://avatars.githubusercontent.com/u/198984863?v=4",
+        "description": "a decentralized payroll system built on the Stellar blockchain using Soroban.",
+        "language": "Rust",
+        "stars": 7,
+        "count": 1,
+        "latest": {
+          "title": "feat(payroll): add create_or_update_escrow functionality and tests",
+          "url": "https://github.com/Stellopay/stellopay-core/pull/9",
+          "mergedAt": "2025-03-21T12:27:27Z"
+        }
+      },
+      {
+        "repo": "Techabode/BrandqoAI",
+        "owner": "Techabode",
+        "avatar": "https://avatars.githubusercontent.com/u/266287388?v=4",
+        "description": "Social media content AI assistant",
+        "language": "TypeScript",
+        "stars": 6,
+        "count": 1,
+        "latest": {
+          "title": "feat: implement two-setting posting frequency and approval mode expla…",
+          "url": "https://github.com/Techabode/BrandqoAI/pull/88",
+          "mergedAt": "2026-04-01T11:17:29Z"
+        }
+      },
+      {
+        "repo": "Predictify-org/predictify-frontend",
+        "owner": "Predictify-org",
+        "avatar": "https://avatars.githubusercontent.com/u/202513627?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 4,
+        "count": 1,
+        "latest": {
+          "title": "feat: add design documentation for Results & Payouts Page",
+          "url": "https://github.com/Predictify-org/predictify-frontend/pull/14",
+          "mergedAt": "2025-07-05T18:58:02Z"
+        }
+      },
+      {
+        "repo": "Peerprotocol/peer-on-strk",
+        "owner": "Peerprotocol",
+        "avatar": "https://avatars.githubusercontent.com/u/178622704?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 4,
+        "count": 1,
+        "latest": {
+          "title": "feat(quests): add WelcomePage component for quests section",
+          "url": "https://github.com/Peerprotocol/peer-on-strk/pull/72",
+          "mergedAt": "2024-11-25T19:27:37Z"
+        }
+      },
+      {
+        "repo": "BuidlZone-Labs/zicket-contract",
+        "owner": "BuidlZone-Labs",
+        "avatar": "https://avatars.githubusercontent.com/u/205257000?v=4",
+        "description": "The smart contract repo for the Zicket foundation",
+        "language": "Rust",
+        "stars": 3,
+        "count": 1,
+        "latest": {
+          "title": "feat: implement ticket tier management for events, replacing single t…",
+          "url": "https://github.com/BuidlZone-Labs/zicket-contract/pull/30",
+          "mergedAt": "2026-02-22T13:36:12Z"
+        }
+      },
+      {
+        "repo": "Trustless-Work/trustlesswork-clonable-backoffice",
+        "owner": "Trustless-Work",
+        "avatar": "https://avatars.githubusercontent.com/u/179369160?v=4",
+        "description": "Clonable backoffice for fast escrow initialization.",
+        "language": "TypeScript",
+        "stars": 3,
+        "count": 1,
+        "latest": {
+          "title": "Add Fund Escrow page with funding progress and summary components",
+          "url": "https://github.com/Trustless-Work/trustlesswork-clonable-backoffice/pull/7",
+          "mergedAt": "2026-01-23T18:26:59Z"
+        }
+      },
+      {
+        "repo": "Harmonia-Development/harmonia-dapp",
+        "owner": "Harmonia-Development",
+        "avatar": "https://avatars.githubusercontent.com/u/201972251?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 3,
+        "count": 1,
+        "latest": {
+          "title": "Feat/stellar wallets kit integration",
+          "url": "https://github.com/Harmonia-Development/harmonia-dapp/pull/116",
+          "mergedAt": "2025-08-02T18:16:50Z"
+        }
+      },
+      {
+        "repo": "PayStell/paystell-backend",
+        "owner": "PayStell",
+        "avatar": "https://avatars.githubusercontent.com/u/186977572?v=4",
+        "description": "Backend for a payment system for merchants powered by the Stellar network",
+        "language": "TypeScript",
+        "stars": 3,
+        "count": 1,
+        "latest": {
+          "title": "Feat/add api docs",
+          "url": "https://github.com/PayStell/paystell-backend/pull/113",
+          "mergedAt": "2025-07-08T22:57:46Z"
+        }
+      },
+      {
+        "repo": "alexohre/crowdchain",
+        "owner": "alexohre",
+        "avatar": "https://avatars.githubusercontent.com/u/47904422?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 3,
+        "count": 1,
+        "latest": {
+          "title": "feat: enhance campaign page with pagination and campaign details",
+          "url": "https://github.com/alexohre/crowdchain/pull/38",
+          "mergedAt": "2025-06-29T19:42:58Z"
+        }
+      },
+      {
+        "repo": "divvi-xyz/docs-v1",
+        "owner": "divvi-xyz",
+        "avatar": "https://avatars.githubusercontent.com/u/197325369?v=4",
+        "description": "Documentation for Divvi",
+        "language": "TypeScript",
+        "stars": 3,
+        "count": 1,
+        "latest": {
+          "title": "fix: corrected \"they\" to \"the\" in index.md",
+          "url": "https://github.com/divvi-xyz/docs-v1/pull/218",
+          "mergedAt": "2025-03-20T09:56:04Z"
+        }
+      },
+      {
+        "repo": "Discorverly/Discoverly",
+        "owner": "Discorverly",
+        "avatar": "https://avatars.githubusercontent.com/u/304466703?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 2,
+        "count": 1,
+        "latest": {
+          "title": "Implement user account verification feature with email service",
+          "url": "https://github.com/Discorverly/Discoverly/pull/38",
+          "mergedAt": "2025-03-23T13:14:18Z"
+        }
+      },
+      {
+        "repo": "dewdrop-labs/transverse-frontend",
+        "owner": "dewdrop-labs",
+        "avatar": "https://avatars.githubusercontent.com/u/191269750?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 2,
+        "count": 1,
+        "latest": {
+          "title": "Feat/build the header component",
+          "url": "https://github.com/dewdrop-labs/transverse-frontend/pull/11",
+          "mergedAt": "2024-12-21T05:07:21Z"
+        }
+      },
+      {
+        "repo": "ZencypherSolutions/socialsphere",
+        "owner": "ZencypherSolutions",
+        "avatar": "https://avatars.githubusercontent.com/u/186750129?v=4",
+        "description": "A Web3 platform empowering communities to create and manage DAOs easily.",
+        "language": "Cairo",
+        "stars": 2,
+        "count": 1,
+        "latest": {
+          "title": "feat(components): add PostProfile component",
+          "url": "https://github.com/ZencypherSolutions/socialsphere/pull/25",
+          "mergedAt": "2024-12-18T15:03:06Z"
+        }
+      },
+      {
+        "repo": "Scaffold-Stark/ss2-docs",
+        "owner": "Scaffold-Stark",
+        "avatar": "https://avatars.githubusercontent.com/u/180111167?v=4",
+        "description": "Docs for scaffold stark",
+        "language": "JavaScript",
+        "stars": 2,
+        "count": 1,
+        "latest": {
+          "title": "docs: update Balance component documentation",
+          "url": "https://github.com/Scaffold-Stark/ss2-docs/pull/29",
+          "mergedAt": "2024-10-07T15:42:20Z"
+        }
+      },
+      {
+        "repo": "horuslabsio/seamlessui",
+        "owner": "horuslabsio",
+        "avatar": "https://avatars.githubusercontent.com/u/123994955?v=4",
+        "description": " Web3 React component library",
+        "language": "TypeScript",
+        "stars": 1,
+        "count": 1,
+        "latest": {
+          "title": "feat: Implement An NFT Card Component",
+          "url": "https://github.com/horuslabsio/seamlessui/pull/16",
+          "mergedAt": "2024-10-01T09:39:06Z"
+        }
+      },
+      {
+        "repo": "HarmonyHomes-developers/Harmony",
+        "owner": "HarmonyHomes-developers",
+        "avatar": "https://avatars.githubusercontent.com/u/202474681?v=4",
+        "description": "HarmonyHome is an innovative platform that leverages blockchain technology to transform real estate transactions. By eliminating intermediaries, it enables faster, more secure, and cost-effective property buying and selling.",
+        "language": "TypeScript",
+        "stars": 0,
+        "count": 1,
+        "latest": {
+          "title": "Feature/create real estate cta",
+          "url": "https://github.com/HarmonyHomes-developers/Harmony/pull/12",
+          "mergedAt": "2025-03-25T14:43:29Z"
+        }
+      },
+      {
+        "repo": "ScaffoldRust/SRust-Basic-Stellar-nextjs-npm",
+        "owner": "ScaffoldRust",
+        "avatar": "https://avatars.githubusercontent.com/u/195044445?v=4",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 0,
+        "count": 1,
+        "latest": {
+          "title": "feat: add initial setup for Soroban project with example contract",
+          "url": "https://github.com/ScaffoldRust/SRust-Basic-Stellar-nextjs-npm/pull/9",
+          "mergedAt": "2025-03-25T20:45:04Z"
+        }
+      },
+      {
+        "repo": "ScaffoldRust/SRust-Basic-Stellar-nextjs-pnpm",
+        "owner": "ScaffoldRust",
+        "avatar": "https://avatars.githubusercontent.com/u/195044445?v=4",
+        "description": "Scaffold Stellar with pnpm as a package manager",
+        "language": "TypeScript",
+        "stars": 0,
+        "count": 1,
+        "latest": {
+          "title": "feat: add `your_contract` with basic Soroban contract features and tests",
+          "url": "https://github.com/ScaffoldRust/SRust-Basic-Stellar-nextjs-pnpm/pull/12",
+          "mergedAt": "2025-03-05T07:10:10Z"
+        }
+      },
+      {
+        "repo": "lfglabs-dev/resolver_ccip",
+        "owner": "lfglabs-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/108661731?v=4",
+        "description": "",
+        "language": "Cairo",
+        "stars": 0,
+        "count": 1,
+        "latest": {
+          "title": "Docs: Add README file with project overview and instructions",
+          "url": "https://github.com/lfglabs-dev/resolver_ccip/pull/8",
+          "mergedAt": "2024-11-23T17:31:08Z"
+        }
+      }
+    ]
+  }
+}

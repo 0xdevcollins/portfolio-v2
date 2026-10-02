@@ -1,26 +1,152 @@
 @import "tailwindcss";
+@import "lenis/dist/lenis.css";
 
+/* Plain and quiet: white page, black type, greys for everything secondary. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #ffffff;
+  --fg: #0a0a0a;
+  --muted: #6b6b6b;
+  --faint: #a3a3a3;
+  --line: #ececec;
+  --soft: #f5f5f4;
+  --soft-2: #ededec;
+  --night: #0a0a0a;
+  --green: #16a34a;
+
+  --gutter: clamp(20px, 5vw, 72px);
+  color-scheme: light;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-bg: var(--bg);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-soft: var(--soft);
+  --color-soft-2: var(--soft-2);
+  --color-night: var(--night);
+  --color-green: var(--green);
+
+  --font-sans: var(--font-inter), "Helvetica Neue", Arial, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", Menlo, monospace;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  html {
+    background: var(--bg);
+  }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: "ss01", "cv11";
+  }
+  ::selection {
+    background: var(--fg);
+    color: var(--bg);
+  }
+  :focus-visible {
+    outline: 2px solid var(--fg);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+    font-weight: 400;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .wrap {
+    width: 100%;
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-inline: var(--gutter);
+  }
+}
+
+/* Elements that animate in are hidden only once JS is confirmed. */
+:root.js [data-reveal] {
+  visibility: hidden;
+}
+
+/* ---------- Intro ---------- */
+.intro {
+  display: none;
+}
+:root[data-intro="play"] .intro {
+  display: grid;
+}
+:root[data-intro="play"] body {
+  overflow: hidden;
+}
+
+/* ---------- Work grid ---------- */
+.work-grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: minmax(0, 1fr);
+}
+@media (min-width: 820px) {
+  .work-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+.work-card.is-out {
+  display: none;
+}
+.work-card[data-featured] {
+  grid-column: 1 / -1;
+}
+.work-media-inner {
+  transition: transform 1s var(--ease-out-expo);
+}
+.work-card:hover .work-media-inner,
+.work-card:focus-within .work-media-inner {
+  transform: scale(1.03);
+}
+@media (min-width: 1024px) {
+  .work-card[data-featured] .work-card-inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+    gap: 8px;
+  }
+  .work-card[data-featured] .work-media {
+    aspect-ratio: auto;
+    min-height: 440px;
+  }
+  .work-card[data-featured] .work-copy {
+    justify-content: flex-end;
+    padding: 28px;
+  }
+  .work-card[data-featured] h3 {
+    font-size: 32px;
+  }
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0.3;
+  }
+}
+.blink {
+  animation: blink 2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
