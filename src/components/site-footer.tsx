@@ -57,7 +57,8 @@ export function SiteFooter() {
           mode="words"
           className="mt-6 max-w-[15ch] text-[clamp(34px,4.4vw,62px)] leading-[1.05] tracking-[-0.04em]"
         >
-          Bring the idea. <span className="text-white/40">I&apos;ll bring the whole stack.</span>
+          Bring the idea<span className="text-accent">.</span>{" "}
+          <span className="text-white/40">I&apos;ll bring the whole stack.</span>
         </Reveal>
 
         <div className="mt-12 flex flex-wrap items-center gap-3">
@@ -67,7 +68,7 @@ export function SiteFooter() {
               className="group inline-flex items-center gap-3 rounded-full bg-white py-2.5 pl-6 pr-2.5 text-[15px] text-fg transition-transform duration-300 ease-[var(--ease-out-expo)] hover:scale-[1.02]"
             >
               {site.email}
-              <span className="grid size-9 place-items-center rounded-full bg-fg text-white transition-transform duration-500 ease-[var(--ease-out-expo)] group-hover:rotate-45">
+              <span className="grid size-9 place-items-center rounded-full bg-accent text-white transition-transform duration-500 ease-[var(--ease-out-expo)] group-hover:rotate-45">
                 <ArrowUpRightIcon weight="bold" className="size-4" />
               </span>
             </a>

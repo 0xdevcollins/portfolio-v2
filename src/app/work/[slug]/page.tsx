@@ -137,7 +137,7 @@ export default async function CaseStudy(props: PageProps<"/work/[slug]">) {
                       href={l.href}
                       target="_blank"
                       rel="noreferrer"
-                      className="group inline-flex items-center gap-1 underline decoration-line underline-offset-4 transition-colors hover:decoration-fg"
+                      className="group inline-flex items-center gap-1 underline decoration-line underline-offset-4 transition-colors hover:decoration-accent"
                     >
                       {l.label}
                       <ArrowUpRightIcon className="size-3 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />

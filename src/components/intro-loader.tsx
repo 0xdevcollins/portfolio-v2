@@ -45,6 +45,7 @@ export function IntroLoader() {
       <div className="relative">
         <p ref={name} className="text-[clamp(40px,7vw,104px)] font-medium leading-none tracking-[-0.045em]">
           {site.name}
+          <span className="text-accent">.</span>
         </p>
         <span
           ref={year}

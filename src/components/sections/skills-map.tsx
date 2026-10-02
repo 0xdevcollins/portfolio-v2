@@ -62,7 +62,7 @@ export function SkillsMap() {
                         onPointerEnter={() => setActive(s.name)}
                         onFocus={() => setActive(s.name)}
                         onClick={() => setActive(s.name)}
-                        className="inline-flex items-center gap-1.5 rounded-full border border-line bg-white px-3 py-1.5 text-[14px] text-fg transition-colors duration-200 hover:border-fg/30 aria-pressed:border-fg aria-pressed:bg-fg aria-pressed:text-white"
+                        className="inline-flex items-center gap-1.5 rounded-full border border-line bg-white px-3 py-1.5 text-[14px] text-fg transition-colors duration-200 hover:border-fg/30 aria-pressed:border-accent aria-pressed:bg-accent aria-pressed:text-white"
                       >
                         {s.name}
                         {count > 0 && <span className="text-[11px] opacity-50">{count}</span>}

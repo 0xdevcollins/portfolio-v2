@@ -12,7 +12,7 @@ import { hasFinePointer, prefersReducedMotion } from "@/lib/intro";
 type Day = { date: string; count: number; level: number };
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-const LEVELS = ["bg-soft-2", "bg-fg/20", "bg-fg/40", "bg-fg/65", "bg-fg"];
+const LEVELS = ["bg-soft-2", "bg-accent/25", "bg-accent/50", "bg-accent/75", "bg-accent"];
 
 function useCalendar(github: GitHubData) {
   return useMemo(() => {
@@ -188,7 +188,7 @@ export function OpenSource({ github }: { github: GitHubData }) {
         <div className="grid gap-12 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-end">
           <div>
             <p className="inline-flex items-center gap-2 text-[13px] text-muted">
-              <GitMergeIcon weight="duotone" className="size-4 text-fg" />
+              <GitMergeIcon weight="duotone" className="size-4 text-accent" />
               Open source
             </p>
             <Reveal
@@ -287,7 +287,7 @@ export function OpenSource({ github }: { github: GitHubData }) {
                     </span>
                     <span
                       data-bar=""
-                      className="w-7 origin-bottom rounded-[4px] bg-fg/80"
+                      className="w-7 origin-bottom rounded-[4px] bg-accent"
                       style={{ height: `${Math.max(6, (y.total / maxYear) * 100)}%` }}
                     />
                   </div>

@@ -194,7 +194,7 @@ export function MoatPlayground() {
                 onChange={(e) => setOn((s) => ({ ...s, [t.key]: e.target.checked }))}
                 className="peer sr-only"
               />
-              <span className="h-5 w-9 rounded-full bg-soft-2 transition-colors peer-checked:bg-fg peer-focus-visible:outline peer-focus-visible:outline-2 peer-focus-visible:outline-offset-2 peer-focus-visible:outline-fg" />
+              <span className="h-5 w-9 rounded-full bg-soft-2 transition-colors peer-checked:bg-accent peer-focus-visible:outline peer-focus-visible:outline-2 peer-focus-visible:outline-offset-2 peer-focus-visible:outline-fg" />
               <span className="absolute left-0.5 top-0.5 size-4 rounded-full bg-white shadow transition-transform duration-300 ease-[var(--ease-out-expo)] peer-checked:translate-x-4" />
             </span>
           </label>

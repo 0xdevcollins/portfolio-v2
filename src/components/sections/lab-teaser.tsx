@@ -11,7 +11,7 @@ export function LabTeaser() {
           className="group flex flex-col gap-6 rounded-[22px] border border-line p-6 transition-colors duration-500 hover:bg-soft md:flex-row md:items-center md:justify-between md:p-8"
         >
           <div className="flex items-center gap-4">
-            <span className="grid size-12 shrink-0 place-items-center rounded-full bg-fg text-white transition-transform duration-500 ease-[var(--ease-out-expo)] group-hover:rotate-[-12deg]">
+            <span className="grid size-12 shrink-0 place-items-center rounded-full bg-fg text-white transition-[transform,background-color] duration-500 group-hover:bg-accent ease-[var(--ease-out-expo)] group-hover:rotate-[-12deg]">
               <FlaskIcon weight="duotone" className="size-5" />
             </span>
             <div>

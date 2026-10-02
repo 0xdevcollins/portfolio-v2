@@ -47,7 +47,7 @@ export function Hero({ github }: { github: GitHubData }) {
           trigger="intro"
           className="max-w-[16ch] text-[clamp(34px,4.4vw,62px)] leading-[1.05] tracking-[-0.04em] sm:max-w-[23ch]"
         >
-          I build the whole thing. <span className="text-faint">From the ledger nobody sees to the button everyone presses.</span>
+          I build the whole thing<span className="text-accent">.</span>{" "}<span className="text-faint">From the ledger nobody sees to the button everyone presses.</span>
         </Reveal>
         <Reveal trigger="intro" delay={0.6} className="hidden lg:block">
           <OrbitBadge src={site.avatar} text="Open to work" href="#contact" />
@@ -95,14 +95,14 @@ export function Hero({ github }: { github: GitHubData }) {
       <Reveal trigger="intro" delay={0.6} className="mt-12 flex flex-wrap items-center gap-3">
         <a
           href="#work"
-          className="group inline-flex items-center gap-2 rounded-full bg-fg py-2.5 pl-5 pr-4 text-[14px] text-white transition-transform duration-300 ease-[var(--ease-out-expo)] hover:scale-[1.03]"
+          className="group inline-flex items-center gap-2 rounded-full bg-fg py-2.5 pl-5 pr-4 text-[14px] text-white transition-[transform,background-color] duration-300 ease-[var(--ease-out-expo)] hover:scale-[1.03] hover:bg-accent"
         >
           See the work
           <ArrowDownIcon weight="bold" className="size-3.5 transition-transform duration-300 group-hover:translate-y-0.5" />
         </a>
         <Link
           href="/me#principles"
-          className="group inline-flex items-center gap-1.5 rounded-full border border-line py-2.5 pl-5 pr-4 text-[14px] transition-colors duration-200 hover:border-fg/30"
+          className="group inline-flex items-center gap-1.5 rounded-full border border-line py-2.5 pl-5 pr-4 text-[14px] transition-colors duration-200 hover:border-accent hover:text-accent-ink"
         >
           How I think about systems
           <ArrowRightIcon className="size-3.5 transition-transform duration-300 group-hover:translate-x-0.5" />

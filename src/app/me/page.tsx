@@ -56,7 +56,7 @@ export default function About() {
           <Reveal trigger="intro" delay={0.6} className="mt-10 flex flex-wrap items-center gap-3">
             <a
               href="#contact"
-              className="group inline-flex items-center gap-2 rounded-full bg-fg py-2.5 pl-5 pr-4 text-[14px] text-white transition-transform duration-300 ease-[var(--ease-out-expo)] hover:scale-[1.03]"
+              className="group inline-flex items-center gap-2 rounded-full bg-fg py-2.5 pl-5 pr-4 text-[14px] text-white transition-[transform,background-color] duration-300 ease-[var(--ease-out-expo)] hover:scale-[1.03] hover:bg-accent"
             >
               Get in touch
               <ArrowRightIcon weight="bold" className="size-3.5 transition-transform duration-300 group-hover:translate-x-0.5" />

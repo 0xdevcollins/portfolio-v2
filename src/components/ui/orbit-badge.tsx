@@ -36,7 +36,7 @@ export function OrbitBadge({ src, text, href }: { src: string; text: string; hre
         <defs>
           <path id="orbit" d="M66,66 m-54,0 a54,54 0 1,1 108,0 a54,54 0 1,1 -108,0" />
         </defs>
-        <text className="fill-fg font-mono text-[10px] uppercase">
+        <text className="fill-accent-ink font-mono text-[10px] uppercase">
           {/* Stretch the label so it wraps the whole ring exactly once. */}
           <textPath href="#orbit" textLength={2 * Math.PI * 54 - 4} lengthAdjust="spacing">
             {label}

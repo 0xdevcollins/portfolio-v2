@@ -31,7 +31,7 @@ export function WorkCard({ project }: { project: Project }) {
           </span>
           <span
             aria-hidden="true"
-            className="absolute right-3 top-3 grid size-9 translate-y-1 place-items-center rounded-full bg-white text-fg opacity-0 shadow-sm transition-all duration-500 ease-[var(--ease-out-expo)] group-hover:translate-y-0 group-hover:opacity-100"
+            className="absolute right-3 top-3 grid size-9 translate-y-1 place-items-center rounded-full bg-accent text-white opacity-0 shadow-sm transition-all duration-500 ease-[var(--ease-out-expo)] group-hover:translate-y-0 group-hover:opacity-100"
           >
             <ArrowUpRightIcon weight="bold" className="size-4" />
           </span>
@@ -58,7 +58,7 @@ export function WorkCard({ project }: { project: Project }) {
                 href={project.live}
                 target="_blank"
                 rel="noreferrer"
-                className="relative z-10 ml-auto inline-flex items-center gap-1 rounded-full px-2 py-1 text-[13px] text-fg underline decoration-line underline-offset-4 transition-colors hover:decoration-fg"
+                className="relative z-10 ml-auto inline-flex items-center gap-1 rounded-full px-2 py-1 text-[13px] text-fg underline decoration-line underline-offset-4 transition-colors hover:decoration-accent"
               >
                 Live site <ArrowUpRightIcon className="size-3.5" />
               </a>

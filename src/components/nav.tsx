@@ -128,7 +128,7 @@ export function Nav() {
 
           <Link
             href="#contact"
-            className="ml-auto rounded-full bg-fg px-4 py-2 text-[14px] text-white transition-transform duration-300 ease-[var(--ease-out-expo)] hover:scale-[1.03] sm:ml-1"
+            className="ml-auto rounded-full bg-fg px-4 py-2 text-[14px] text-white transition-[transform,background-color] duration-300 ease-[var(--ease-out-expo)] hover:scale-[1.03] hover:bg-accent sm:ml-1"
           >
             Contact
           </Link>

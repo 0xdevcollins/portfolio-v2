@@ -66,7 +66,7 @@ export function Principles() {
           className="pointer-events-none absolute inset-0 z-10 opacity-0 transition-opacity duration-500 group-hover/grid:opacity-100"
           style={{
             background:
-              "radial-gradient(420px circle at var(--x, 50%) var(--y, 50%), rgba(10,10,10,0.05), transparent 60%)",
+              "radial-gradient(420px circle at var(--x, 50%) var(--y, 50%), rgba(219,39,119,0.07), transparent 60%)",
           }}
         />
         {principles.map((p) => (

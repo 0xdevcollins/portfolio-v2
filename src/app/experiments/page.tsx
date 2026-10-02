@@ -33,7 +33,7 @@ function Links({ repo, caseStudy }: { repo: string | null; caseStudy?: string })
         </span>
       )}
       {caseStudy && (
-        <Link href={caseStudy} className="underline decoration-line underline-offset-4 hover:decoration-fg">
+        <Link href={caseStudy} className="underline decoration-line underline-offset-4 hover:decoration-accent">
           Case study
         </Link>
       )}

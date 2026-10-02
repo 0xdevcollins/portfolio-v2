@@ -31,7 +31,7 @@ function KmScale() {
           <span
             key={i}
             data-km=""
-            className={`w-[2px] origin-bottom rounded-full bg-fg ${(i + 1) % 5 === 0 ? "h-5" : "h-2.5 opacity-40"}`}
+            className={`w-[2px] origin-bottom rounded-full bg-accent ${(i + 1) % 5 === 0 ? "h-5" : "h-2.5 opacity-40"}`}
           />
         ))}
       </div>

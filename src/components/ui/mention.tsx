@@ -55,7 +55,7 @@ export function Mention({ href, label, logo, image, focus, icon, preview }: Prop
         href={href}
         onFocus={show}
         onBlur={hide}
-        className="inline-flex translate-y-[-0.08em] items-center gap-[0.35em] rounded-full border border-line bg-white py-[0.12em] pl-[0.15em] pr-[0.6em] align-middle text-[0.86em] leading-tight text-fg transition-colors duration-200 hover:border-fg/25"
+        className="inline-flex translate-y-[-0.08em] items-center gap-[0.35em] rounded-full border border-line bg-white py-[0.12em] pl-[0.15em] pr-[0.6em] align-middle text-[0.86em] leading-tight text-fg transition-colors duration-200 hover:border-accent/60"
       >
         <span className="relative grid size-[1.45em] shrink-0 place-items-center overflow-hidden rounded-full bg-soft text-fg">
           {logo ? (

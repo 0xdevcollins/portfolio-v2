@@ -1,7 +1,9 @@
 @import "tailwindcss";
 @import "lenis/dist/lenis.css";
 
-/* Plain and quiet: white page, black type, greys for everything secondary. */
+/* Plain and quiet: white page, black type, greys for everything secondary,
+   and one rose accent for moments that matter. Chosen to clash with none
+   of the project brands shown on the site (orange, green, indigo, cyan). */
 :root {
   --bg: #ffffff;
   --fg: #0a0a0a;
@@ -12,6 +14,10 @@
   --soft-2: #ededec;
   --night: #0a0a0a;
   --green: #16a34a;
+  --accent: #db2777;
+  /* Deeper rose for small text and thin strokes, so it stays readable on white. */
+  --accent-ink: #9d174d;
+  --accent-soft: #fdf2f8;
 
   --gutter: clamp(20px, 5vw, 72px);
   color-scheme: light;
@@ -27,6 +33,9 @@
   --color-soft-2: var(--soft-2);
   --color-night: var(--night);
   --color-green: var(--green);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
 
   --font-sans: var(--font-inter), "Helvetica Neue", Arial, sans-serif;
   --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", Menlo, monospace;
@@ -48,11 +57,11 @@
     font-feature-settings: "ss01", "cv11";
   }
   ::selection {
-    background: var(--fg);
-    color: var(--bg);
+    background: var(--accent);
+    color: #ffffff;
   }
   :focus-visible {
-    outline: 2px solid var(--fg);
+    outline: 2px solid var(--accent);
     outline-offset: 3px;
     border-radius: 4px;
   }

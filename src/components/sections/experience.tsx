@@ -108,13 +108,13 @@ export function Experience() {
                 ))}
                 <span
                   data-span=""
-                  className="absolute inset-y-0 origin-left rounded-full bg-fg"
+                  className={`absolute inset-y-0 origin-left rounded-full ${role.end === null ? "bg-accent" : "bg-fg"}`}
                   style={{ left: `${pct(role.start)}%`, width: `${Math.max(1.2, pct(role.end ?? AXIS_END) - pct(role.start))}%` }}
                 />
                 {role.end === null && (
                   <span
                     aria-hidden="true"
-                    className="blink absolute top-1/2 size-2.5 -translate-x-1/2 -translate-y-1/2 rounded-full border-2 border-white bg-green"
+                    className="blink absolute top-1/2 size-2.5 -translate-x-1/2 -translate-y-1/2 rounded-full border-2 border-white bg-accent"
                     style={{ left: "100%" }}
                   />
                 )}
